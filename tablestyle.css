@@ -1,0 +1,25 @@
+<html>
+
+
+table {
+	width: 400px;
+
+}
+
+th{
+	text-align: left;
+}
+
+table, th, td{
+	border:1px solid #FF5500;
+	border-collapse: collapse;
+}
+
+th, td{
+	padding: 10px;
+}
+
+tr: nth- child (odd)
+{
+	background- colour:	#8FFFA2	;
+}
